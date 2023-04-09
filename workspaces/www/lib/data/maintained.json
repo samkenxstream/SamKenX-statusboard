@@ -6,12 +6,6 @@
     "pkg": "abbrev"
   },
   {
-    "id": "npm_agent",
-    "name": "agent",
-    "owner": "npm",
-    "pkg": "@npmcli/agent"
-  },
-  {
     "id": "npm_cli_workspaces_arborist",
     "name": "cli",
     "owner": "npm",
@@ -287,12 +281,6 @@
     "pkg": "nopt"
   },
   {
-    "id": "npm_normalize-package-data",
-    "name": "normalize-package-data",
-    "owner": "npm",
-    "pkg": "normalize-package-data"
-  },
-  {
     "id": "npm_cli",
     "name": "cli",
     "owner": "npm",
@@ -326,12 +314,6 @@
     "name": "npm-normalize-package-bin",
     "owner": "npm",
     "pkg": "npm-normalize-package-bin"
-  },
-  {
-    "id": "npm_npm-package-arg",
-    "name": "npm-package-arg",
-    "owner": "npm",
-    "pkg": "npm-package-arg"
   },
   {
     "id": "npm_npm-packlist",
