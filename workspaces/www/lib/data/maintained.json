@@ -340,6 +340,12 @@
     "pkg": "npm-profile"
   },
   {
+    "id": "npm_npm-registry-fetch",
+    "name": "npm-registry-fetch",
+    "owner": "npm",
+    "pkg": "npm-registry-fetch"
+  },
+  {
     "id": "npm_npm-user-validate",
     "name": "npm-user-validate",
     "owner": "npm",
@@ -418,9 +424,21 @@
     "pkg": "read-package-json"
   },
   {
+    "id": "npm_read-package-json-fast",
+    "name": "read-package-json-fast",
+    "owner": "npm",
+    "pkg": "read-package-json-fast"
+  },
+  {
     "id": "npm_rfcs",
     "name": "rfcs",
     "owner": "npm"
+  },
+  {
+    "id": "npm_run-script",
+    "name": "run-script",
+    "owner": "npm",
+    "pkg": "@npmcli/run-script"
   },
   {
     "id": "npm_node-semver",
