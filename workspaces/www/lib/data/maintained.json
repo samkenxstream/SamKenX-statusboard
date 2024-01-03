@@ -346,12 +346,6 @@
     "pkg": "npm-user-validate"
   },
   {
-    "id": "npm_npmlog",
-    "name": "npmlog",
-    "owner": "npm",
-    "pkg": "npmlog"
-  },
-  {
     "id": "npm_package-json",
     "name": "package-json",
     "owner": "npm",
@@ -430,11 +424,6 @@
     "pkg": "read-package-json-fast"
   },
   {
-    "id": "npm_rfcs",
-    "name": "rfcs",
-    "owner": "npm"
-  },
-  {
     "id": "npm_run-script",
     "name": "run-script",
     "owner": "npm",
@@ -498,12 +487,6 @@
     "name": "validate-npm-package-name",
     "owner": "npm",
     "pkg": "validate-npm-package-name"
-  },
-  {
-    "id": "npm_node-which",
-    "name": "node-which",
-    "owner": "npm",
-    "pkg": "which"
   },
   {
     "id": "npm_write-file-atomic",
